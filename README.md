@@ -1,4 +1,4 @@
-# CRQS and Event Sourcing
+# CQRS and Event Sourcing
 
 Studies based in day 5-6 of 100 Days System Design for DevOps and Cloud Engineers
 
